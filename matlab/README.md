@@ -1,6 +1,6 @@
 # MATLAB Applications Documentation
 
-This folder contains MATLAB applications developed for Team ANTi's WRO 2025 Future Engineers project, specifically designed to enhance our robot's vision system and algorithm development. This documentation was last updated on **Monday, November 03, 2025, at 10:30 AM +03**.
+This folder contains MATLAB applications developed for Team ANTi's WRO Future Engineers project, specifically designed to enhance our robot's vision system and algorithm development.
 
 ## 🎯 MathWorks Modeling Award Submission
 
