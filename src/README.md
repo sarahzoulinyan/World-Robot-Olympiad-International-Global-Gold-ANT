@@ -1,6 +1,6 @@
 # Software Documentation
 
-This folder contains the complete source code for Team ANTi's WRO 2025 Future Engineers robot, written in **MicroPython** for the STM32H747 camera microcontroller and **Arduino C++** for the nRF52832 sensor microcontroller. This documentation was last updated on **Saturday, November 09, 2025, at 04:48 AM +03**.
+This folder contains the complete source code for Team ANTi's WRO Future Engineers robot, written in **MicroPython** for the STM32H747 camera microcontroller and **Arduino C++** for the nRF52832 sensor microcontroller.
 
 <table>
 <tr>
