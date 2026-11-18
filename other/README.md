@@ -38,7 +38,7 @@ This folder contains supplementary materials for Team ANTi's WRO Future Engineer
 ### Branding & Achievements
 | Resource | Image | Description |
 |----------|-------|-------------|
-| Team Logo | <img src="transparent_only_logo_WRO2025_FE_ANTi_logo_05-05-2025.png" alt="Team Logo" width="200"> | Official Team ANTi competition logo |
+| Team Logo | <img src="transparent_only_logo_WRO_FE_ANTi_logo.png" alt="Team Logo" width="200"> | Official Team ANTi competition logo |
 | Champion Trophy | <img src="turkey_champion_trophy.jpg" alt="Champion Trophy" width="200"> | Turkish National Champion achievement |
 
 ## Experienced Problems and Implemented Solutions
