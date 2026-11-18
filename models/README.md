@@ -1,6 +1,6 @@
 # Models Documentation
 
-This folder contains the complete 3D CAD models and manufacturing files for Team ANTi's WRO 2025 Future Engineers robot. All mechanical components were custom-designed and manufactured in-house to achieve our goal of creating the world's smallest autonomous vehicle while maintaining optimal performance. This documentation was last updated on **Saturday, November 08, 2025, at 08:13 AM +03**.
+This folder contains the complete 3D CAD models and manufacturing files for Team ANTi's WRO Future Engineers robot. All mechanical components were custom-designed and manufactured in-house to achieve our goal of creating the world's smallest autonomous vehicle while maintaining optimal performance.
 
 ## 🎯 Mechanical Design Philosophy
 
@@ -357,7 +357,7 @@ While silicone promised higher friction coefficients, our ultra-lightweight, hig
 
 ---
 
-This comprehensive mechanical documentation provides complete transparency into our design process, manufacturing methods, validation procedures, and engineering decision-making. Every aspect of our mechanical system has been optimized for the unique challenges of autonomous navigation in the WRO 2025 Future Engineers category, enabling exact duplication while demonstrating engineering excellence through detailed component specifications, assembly instructions, performance data, and real-world validation.
+This comprehensive mechanical documentation provides complete transparency into our design process, manufacturing methods, validation procedures, and engineering decision-making. Every aspect of our mechanical system has been optimized for the unique challenges of autonomous navigation in the WRO Future Engineers category, enabling exact duplication while demonstrating engineering excellence through detailed component specifications, assembly instructions, performance data, and real-world validation.
 
 For electrical systems documentation: [Schemes Documentation](../schemes/README.md)  
 For software implementation and algorithms: [Software Documentation](../src/README.md)  

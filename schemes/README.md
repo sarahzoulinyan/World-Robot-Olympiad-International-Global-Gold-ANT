@@ -1,6 +1,6 @@
 # Schemes Documentation
 
-This folder contains the complete electrical schematics, wiring diagrams, and power management documentation for Team ANTi's WRO 2025 Future Engineers robot. All electronic systems were designed, manufactured, and assembled by our team using custom pertinax boards to achieve optimal performance in the world's smallest autonomous vehicle. This documentation was last updated on **Saturday, November 08, 2025, at 06:41 PM +03**.
+This folder contains the complete electrical schematics, wiring diagrams, and power management documentation for Team ANTi's WRO Future Engineers robot. All electronic systems were designed, manufactured, and assembled by our team using custom pertinax boards to achieve optimal performance in the world's smallest autonomous vehicle.
 
 ## 🎯 Electrical Design Philosophy
 
@@ -409,7 +409,7 @@ All component specifications are thoroughly documented in the following datashee
 
 ## ✅ Engineering Validation
 
-This comprehensive electrical and schematic documentation provides complete transparency into our design process, component selection rationale, manufacturing methodology, and problem-solving approaches. Every aspect of our electrical system has been optimized for reliability, maintainability, and performance in the WRO 2025 Future Engineers competition.
+This comprehensive electrical and schematic documentation provides complete transparency into our design process, component selection rationale, manufacturing methodology, and problem-solving approaches. Every aspect of our electrical system has been optimized for reliability, maintainability, and performance in the WRO Future Engineers competition.
 
 **Documentation Completeness**: All schematics, wiring diagrams, component specifications, and implementation details are provided to enable exact replication of our electrical systems. This documentation aims to fulfill the WRO Future Engineers competition requirements for comprehensive engineering documentation through detailed electrical system transparency.
 

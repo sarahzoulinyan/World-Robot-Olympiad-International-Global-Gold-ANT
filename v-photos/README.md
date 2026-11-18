@@ -1,6 +1,5 @@
 # Vehicle Photos
 
-This folder contains high-quality photos of Team ANTi's WRO 2025 Future Engineers robot, showcasing its compact design and engineering. Each photo includes detailed labels and arrow indications to clearly show components related to **mobility management**, **power and sense management**, and **obstacle management**. This documentation was last updated on **Thursday, Nov 06 2025, at 02:07 AM +03**.
 
 ## Photo List
 
@@ -63,7 +62,6 @@ This folder contains high-quality photos of Team ANTi's WRO 2025 Future Engineer
 - Arrow indications and labels directly reference components discussed in main and hardware documentations
 - Each view showcases key components like the Ackermann steering, differential, and pertinax boards.
 - High-resolution images allow detailed inspection of all engineering elements
-- See more on our 🎥 [YouTube channel](https://www.youtube.com/@solipsy.).
 
 
 For performance demonstrations, see [Performance Videos](../video/README.md).  

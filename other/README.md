@@ -1,6 +1,6 @@
 # Other Resources
 
-This folder contains supplementary materials for Team ANTi's WRO 2025 Future Engineers robot, including component images, technical documentation, development photos, and design resources. This documentation was last updated on **Saturday, November 08, 2025, at 08:23 AM +03**.
+This folder contains supplementary materials for Team ANTi's WRO Future Engineers robot, including component images, technical documentation, development photos, and design resources.
 
 ## Resource Categories
 
@@ -38,11 +38,11 @@ This folder contains supplementary materials for Team ANTi's WRO 2025 Future Eng
 ### Branding & Achievements
 | Resource | Image | Description |
 |----------|-------|-------------|
-| Team Logo | <img src="transparent_only_logo_WRO2025_FE_ANTi_logo_05-05-2025.png" alt="Team Logo" width="200"> | Official Team ANTi competition logo |
+| Team Logo | <img src="transparent_only_logo_WRO_FE_ANTi_logo.png" alt="Team Logo" width="200"> | Official Team ANTi competition logo |
 | Champion Trophy | <img src="turkey_champion_trophy.jpg" alt="Champion Trophy" width="200"> | Turkish National Champion achievement |
 
 ## Experienced Problems and Implemented Solutions
-During the development of the WRO 2025 robot, we encountered several challenges, including:
+During the development of the WRO robot, we encountered several challenges, including:
 
 1. **Integration Issues**: Difficulty in integrating various electronic components due to compatibility issues was resolved by selecting standardized components that are widely supported.
 
@@ -64,4 +64,3 @@ For detailed documentation, please refer to the following resources:
 - **[Models Documentation](../models/README.md)**: Includes hardware specifications and mechanical design files.
 - **[Software Documentation](../src/README.md)**: Features communication protocols (including optimized UART) and software implementation details.
 
-Follow our competition journey: 📸 [Instagram](https://www.instagram.com/anti.wro/) • 🎥 [YouTube](https://www.youtube.com/@solipsy.)

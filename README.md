@@ -1,13 +1,10 @@
-# 🚀 WRO 2025 Future Engineers – ANTi
+# 🚀 WRO Future Engineers – ANTi
 
 <center>
-<img src="other/transparent_only_logo_WRO2025_FE_ANTi_logo_05-05-2025.png" alt="Banner" width="600">
+<img src="other/transparent_only_logo_WRO_FE_ANTi_logo.png" alt="Banner" width="600">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anti.wro/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@solipsy.)
 </center>
 
-> Source project: Team ANTi’s WRO 2025 Future Engineers work. This repository records the upload; original project attribution and the AGPL-3.0 license are retained.
 
 ---
 
