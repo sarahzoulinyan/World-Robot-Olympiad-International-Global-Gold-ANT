@@ -1,7 +1,7 @@
 # 🚀 WRO Future Engineers – ANTi
 
 <center>
-<img src="other/transparent_only_logo_WRO2025_FE_ANTi_logo_05-05-2025.png" alt="Banner" width="600">
+<img src="other/transparent_only_logo_WRO_FE_ANTi_logo.png" alt="Banner" width="600">
 
 </center>
 
